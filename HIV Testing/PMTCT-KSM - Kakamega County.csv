@@ -1,0 +1,777 @@
+facilityuid,facility,code,ward,sub_county,county,indicator,indicator_name,period,dhis2_value,datim_value
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,21,21
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,18,18
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,23,23
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,483,480
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,588,581
+Hz3BwMUktOJ,Kakamega Provincial General Hospital (PGH),15915,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,517,515
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,157,154
+WYaAkILOP16,Buchangu Dispensary,15810,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,70
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,105,101
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+aldqNnKJgrg,Matioli Dispensary,16006,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,128,127
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,62,61
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,78,76
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,70,70
+HLBR8Fm8NHq,Musembe Dispensary,16865,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+zRb4VBix3Qg,Matunda Nursing Home,16007,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,75,72
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+z3XPCm6Ssp3,Imbiakalo Dispensary,15901,West Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,63,63
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+ilI3ROaTEuf,Maturu Dispensary,16009,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,127,125
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,334,329
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+PLczdqs5KKm,Nyaporo Dispensary,17082,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,72,71
+yanWZpO1esQ,GK Prisons Dispensary (Kakamega Central),15892,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,121,117
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,65,65
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,68,66
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,91,91
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+KZokajoLAXf,Seregeya Dispensary,16102,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,29,29
+ZWaly1q0aqs,Imalaba Dispensary,16484,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,21
+kWzAmRGUHal,Kakamega Forest Dispensary,15914,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,55
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,51,51
+IwDcBQwgbEg,Sango Dispensary,16100,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,84,84
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,274,269
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,500,494
+PuVGCzBiYAp,Shibanze Dispensary,16123,Kholera Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+M6xawHYldR7,Mapengo Dispensary,16000,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,22
+DkcS7mBduV7,Emusanda Dispensary,16762,Butsotso Central Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+zsswqbRZEzQ,Shikusi Dispensary,16113,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,57,57
+Cyrvs2lDXuc,Musanda (ACK) Clinic,16049,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,8,7
+DIonv0JYDFH,Nala Maternity and Nursing Home,16062,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,47
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,111,109
+JTL8OVhlUqF,Chebwai Mission Dispensary,15849,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,32,31
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,166,163
+NaNOAO9vdQF,Namirama Dispensary,17178,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,46,45
+eFmuvjEF89U,Mung'ang'a Dispensary,16041,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,53
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+J2atPWRHPz7,Masinde Muliro University of Science and Technolog,16764,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,5,5
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,178,174
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,128,127
+yBE1qjhnu5Q,Mung'ung'u Dispensary,16042,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,114,113
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,125,123
+r7Lt1WaGvWx,Shikumu Dispensary,16483,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,14,14
+FkiRDv9jRrl,Ikuywa Dispensary,16717,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,31
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+zRb4VBix3Qg,Matunda Nursing Home,16007,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+PKZbcnRwCfc,Sinoko Dispensary (Likuyani),16127,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,60,59
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,129,128
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,94,93
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,236,231
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,7
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,8,8
+ByiHGSgYyaR,Mbagara Dispensary,16011,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,50,50
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Gwo8OLfAeek,Soy Sambu Dispensary,16134,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,40,40
+hUDoz9oxecE,Eshiongo Dispensary,15883,Shinoyi-Shikomari-Esumeiya Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,195,192
+GsdR4nzQbYe,Murudef Clinic,16048,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,12,11
+Sy2bE0LtTJx,Muting'ong'o Dispensary,16054,Chemuche Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+vK6NKz2Sr8B,Kharanda Dispensary,15934,Bunyala West Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,239,235
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,16,16
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+QwmMZVZSkRy,Lugari Forest Dispensary,15964,Lugari Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+d4U4gk3e0uD,Ileho Health Centre,15900,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,133,130
+IDtVLOWs5dB,Shihalia Dispensary,16108,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,12,12
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,224,223
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,512,509
+d4U4gk3e0uD,Ileho Health Centre,15900,Isukha East Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+ilI3ROaTEuf,Maturu Dispensary,16009,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,128,124
+DIonv0JYDFH,Nala Maternity and Nursing Home,16062,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,47,46
+IwDcBQwgbEg,Sango Dispensary,16100,Sango Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,419,410
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,68,67
+PLczdqs5KKm,Nyaporo Dispensary,17082,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,62,61
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,90,90
+mfEvntdmjUe,Chevoso Dispensary,15857,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,67,66
+rEKNga4CgFK,Eshikhuyu Dispensary,15882,Butsotso Central Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,69,67
+bm0xjIsElOx,Namagara Dispensary,16064,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,81,80
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,219,217
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,45
+IDtVLOWs5dB,Shihalia Dispensary,16108,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+c6oal13vwWU,Shivanga Health Centre,16122,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,15,15
+HLBR8Fm8NHq,Musembe Dispensary,16865,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,20,20
+QwmMZVZSkRy,Lugari Forest Dispensary,15964,Lugari Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+WYaAkILOP16,Buchangu Dispensary,15810,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,66,66
+gl9nmj6WvWP,Budonga Dispensary,15812,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,100,99
+r7Lt1WaGvWx,Shikumu Dispensary,16483,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,13,12
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+Sy2bE0LtTJx,Muting'ong'o Dispensary,16054,Chemuche Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+cFRuOTWF3ur,Musembe Dispensary (Lugari),16051,Chekalini Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+NaNOAO9vdQF,Namirama Dispensary,17178,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,47
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,499,496
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,226,220
+pZd75ZZ55tI,Elukhambi Dispensary,15872,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,164,162
+FiGBHFGyJas,Turbo Forest Dispensary,16154,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,34,34
+PuVGCzBiYAp,Shibanze Dispensary,16123,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,68,68
+UVRLJhXsWSL,Kimangeti Dispensary,15949,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,95,93
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,127,120
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+c6oal13vwWU,Shivanga Health Centre,16122,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,43
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,187,186
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+Cyrvs2lDXuc,Musanda (ACK) Clinic,16049,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,5,5
+zsswqbRZEzQ,Shikusi Dispensary,16113,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,68,67
+MsF0OYgs0ut,Eregi Mission Health Centre,15881,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,20,20
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+W1JxUhwofMg,Shikokho Dispensary,16110,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,14,14
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,22,22
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,62,62
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,54
+PuVGCzBiYAp,Shibanze Dispensary,16123,Kholera Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,209,206
+lbpwWBn36iE,Majengo Dispensary,15988,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,27,27
+Gwo8OLfAeek,Soy Sambu Dispensary,16134,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,60,60
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,59,58
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,111,109
+rEKNga4CgFK,Eshikhuyu Dispensary,15882,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,20,19
+z9FKHisHLl1,Mukuyu Dispensary,16031,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,62,62
+z3XPCm6Ssp3,Imbiakalo Dispensary,15901,West Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,61,60
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,20,20
+s10bI57eZ6v,Namulungu Dispensary,16070,Kholera Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+zRb4VBix3Qg,Matunda Nursing Home,16007,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+zsswqbRZEzQ,Shikusi Dispensary,16113,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+yanWZpO1esQ,GK Prisons Dispensary (Kakamega Central),15892,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,130,92
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,121,120
+wCYNSByDP30,Nzoia Matete Dispensary,16086,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,27
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,134,132
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+kWzAmRGUHal,Kakamega Forest Dispensary,15914,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,34,33
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,270,268
+M6xawHYldR7,Mapengo Dispensary,16000,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,17,17
+cFRuOTWF3ur,Musembe Dispensary (Lugari),16051,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,32,31
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,85,85
+mfEvntdmjUe,Chevoso Dispensary,15857,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,70,69
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,43
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,16,16
+s10bI57eZ6v,Namulungu Dispensary,16070,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,45,44
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,298,345
+sKHkoTOfodh,Elwasambi Dispensary,15873,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+IwDcBQwgbEg,Sango Dispensary,16100,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,57,57
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,74,72
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+vK6NKz2Sr8B,Kharanda Dispensary,15934,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,92,92
+d4U4gk3e0uD,Ileho Health Centre,15900,Isukha East Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+aldqNnKJgrg,Matioli Dispensary,16006,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+lbpwWBn36iE,Majengo Dispensary,15988,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,28
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,362,355
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,200,193
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,87,85
+El8fBMbWcrO,Kuvasali Health Centre,15959,East Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,81,81
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+COpiQeVtvEL,St Pius Musoli Health Centre,16145,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+gl9nmj6WvWP,Budonga Dispensary,15812,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,80,80
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+FiGBHFGyJas,Turbo Forest Dispensary,16154,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,35,35
+rog82qbp7Oh,Bushiangala Health Centre,15832,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,4,4
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,16,16
+COpiQeVtvEL,St Pius Musoli Health Centre,16145,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+ByiHGSgYyaR,Mbagara Dispensary,16011,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,62,62
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+y1jWd1Ug7ts,Shibwe Sub-District Hospital,16107,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,179,177
+gl9nmj6WvWP,Budonga Dispensary,15812,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,103,103
+c6oal13vwWU,Shivanga Health Centre,16122,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,372,363
+nNM3ZA9ErqU,Shikusa Health Centre,16112,Isukha North Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+QwmMZVZSkRy,Lugari Forest Dispensary,15964,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,75,75
+El8fBMbWcrO,Kuvasali Health Centre,15959,East Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,75,73
+PKZbcnRwCfc,Sinoko Dispensary (Likuyani),16127,Sinoko Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+ozud4J6eShX,Eshikulu Dispensary,17217,Etenje Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+bm0xjIsElOx,Namagara Dispensary,16064,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,65,62
+bm0xjIsElOx,Namagara Dispensary,16064,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,48,47
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,60,60
+r7Lt1WaGvWx,Shikumu Dispensary,16483,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,6,6
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+eFmuvjEF89U,Mung'ang'a Dispensary,16041,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+zvicDsjeRbr,Lunyito Dispensary,15974,Lugari Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+ozud4J6eShX,Eshikulu Dispensary,17217,Etenje Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,48,46
+lUeBChLhZoD,Munyuki Dispensary,16046,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,61,60
+z9FKHisHLl1,Mukuyu Dispensary,16031,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,70,69
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,4,4
+y1jWd1Ug7ts,Shibwe Sub-District Hospital,16107,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,165,159
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,102,100
+rog82qbp7Oh,Bushiangala Health Centre,15832,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,3,3
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+mfEvntdmjUe,Chevoso Dispensary,15857,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,77,77
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+W1JxUhwofMg,Shikokho Dispensary,16110,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,19,16
+FkiRDv9jRrl,Ikuywa Dispensary,16717,Isukha East Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+S9Q1bx9tpZz,Chombeli Health Centre,15859,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,157,155
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,23,22
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,168,163
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,9,9
+ilI3ROaTEuf,Maturu Dispensary,16009,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,102,102
+rog82qbp7Oh,Bushiangala Health Centre,15832,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,1,1
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+y1jWd1Ug7ts,Shibwe Sub-District Hospital,16107,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,171,169
+DkcS7mBduV7,Emusanda Dispensary,16762,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,63,63
+DIonv0JYDFH,Nala Maternity and Nursing Home,16062,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,41
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,56,55
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,27,27
+FGkaUMhNlgb,Ematiha Dispensary,16867,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+sKHkoTOfodh,Elwasambi Dispensary,15873,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+eFmuvjEF89U,Mung'ang'a Dispensary,16041,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,80,79
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,151,148
+zjvUyYZscbf,St Charles Lwanga Health Centre,15957,Chekalini Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,74,73
+lUeBChLhZoD,Munyuki Dispensary,16046,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,51,50
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+ByiHGSgYyaR,Mbagara Dispensary,16011,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,47,47
+nNM3ZA9ErqU,Shikusa Health Centre,16112,Isukha North Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+hUDoz9oxecE,Eshiongo Dispensary,15883,Shinoyi-Shikomari-Esumeiya Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+S9Q1bx9tpZz,Chombeli Health Centre,15859,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,155,155
+DkcS7mBduV7,Emusanda Dispensary,16762,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,74,73
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+El8fBMbWcrO,Kuvasali Health Centre,15959,East Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,77,76
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+ZWaly1q0aqs,Imalaba Dispensary,16484,Idakho South Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+UVRLJhXsWSL,Kimangeti Dispensary,15949,Chemuche Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,187,183
+DkcS7mBduV7,Emusanda Dispensary,16762,Butsotso Central Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+W1JxUhwofMg,Shikokho Dispensary,16110,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,10,10
+JTL8OVhlUqF,Chebwai Mission Dispensary,15849,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,44
+S9Q1bx9tpZz,Chombeli Health Centre,15859,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,141,139
+DkcS7mBduV7,Emusanda Dispensary,16762,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,105,101
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,249,246
+PuVGCzBiYAp,Shibanze Dispensary,16123,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,87,85
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,76,74
+vK6NKz2Sr8B,Kharanda Dispensary,15934,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,92,92
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,111,110
+PLczdqs5KKm,Nyaporo Dispensary,17082,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+UVRLJhXsWSL,Kimangeti Dispensary,15949,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,80,80
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,25,25
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,130,130
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,243,239
+c6oal13vwWU,Shivanga Health Centre,16122,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,76,76
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+lUeBChLhZoD,Munyuki Dispensary,16046,Lumakanda Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+z3XPCm6Ssp3,Imbiakalo Dispensary,15901,West Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,43
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,200,307
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+zvicDsjeRbr,Lunyito Dispensary,15974,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,20,20
+Sy2bE0LtTJx,Muting'ong'o Dispensary,16054,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,44,44
+ZWaly1q0aqs,Imalaba Dispensary,16484,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,30,29
+FGkaUMhNlgb,Ematiha Dispensary,16867,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,99,99
+rEKNga4CgFK,Eshikhuyu Dispensary,15882,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,31
+z9FKHisHLl1,Mukuyu Dispensary,16031,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,59,58
+KZokajoLAXf,Seregeya Dispensary,16102,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,29,29
+aldqNnKJgrg,Matioli Dispensary,16006,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,28,27
+MsF0OYgs0ut,Eregi Mission Health Centre,15881,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,18,18
+kWzAmRGUHal,Kakamega Forest Dispensary,15914,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,34,33
+sKHkoTOfodh,Elwasambi Dispensary,15873,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,26,26
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,69,69
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,134,130
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,46,45
+pZd75ZZ55tI,Elukhambi Dispensary,15872,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,23,23
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,282,
+ozud4J6eShX,Eshikulu Dispensary,17217,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,57,55
+zRb4VBix3Qg,Matunda Nursing Home,16007,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,77,76
+FiGBHFGyJas,Turbo Forest Dispensary,16154,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+hUDoz9oxecE,Eshiongo Dispensary,15883,Shinoyi-Shikomari-Esumeiya Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,80,77
+lbpwWBn36iE,Majengo Dispensary,15988,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,36
+wCYNSByDP30,Nzoia Matete Dispensary,16086,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,47
+lUeBChLhZoD,Munyuki Dispensary,16046,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,47,47
+yBE1qjhnu5Q,Mung'ung'u Dispensary,16042,Koyonzo Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+TtPo1TF1tpl,Lutaso Dispensary,15978,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,11,11
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,129,128
+IDtVLOWs5dB,Shihalia Dispensary,16108,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,20,17
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,223,213
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,214,210
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,84,81
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,17,17
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,214,212
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,97,96
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,26,26
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,169,166
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,101,101
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,13,13
+M6xawHYldR7,Mapengo Dispensary,16000,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,19,19
+NaNOAO9vdQF,Namirama Dispensary,17178,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,60,60
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,92,91
+NaNOAO9vdQF,Namirama Dispensary,17178,Bunyala East Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+KZokajoLAXf,Seregeya Dispensary,16102,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+cFRuOTWF3ur,Musembe Dispensary (Lugari),16051,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,36,35
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+HLBR8Fm8NHq,Musembe Dispensary,16865,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,18,18
+mfEvntdmjUe,Chevoso Dispensary,15857,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+QwmMZVZSkRy,Lugari Forest Dispensary,15964,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,49,48
+PLczdqs5KKm,Nyaporo Dispensary,17082,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,32,31
+IDtVLOWs5dB,Shihalia Dispensary,16108,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+wCYNSByDP30,Nzoia Matete Dispensary,16086,Lwandeti Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,28,28
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,17,17
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+QwmMZVZSkRy,Lugari Forest Dispensary,15964,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,69,66
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,97,97
+s10bI57eZ6v,Namulungu Dispensary,16070,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,60,60
+cFRuOTWF3ur,Musembe Dispensary (Lugari),16051,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,47
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,103,103
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,218,217
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,101,96
+IDtVLOWs5dB,Shihalia Dispensary,16108,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,19,19
+ilI3ROaTEuf,Maturu Dispensary,16009,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+IwDcBQwgbEg,Sango Dispensary,16100,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,76,75
+WYaAkILOP16,Buchangu Dispensary,15810,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,62,62
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+d4U4gk3e0uD,Ileho Health Centre,15900,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,130,128
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+PuVGCzBiYAp,Shibanze Dispensary,16123,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,58,56
+UVRLJhXsWSL,Kimangeti Dispensary,15949,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,92,91
+z3XPCm6Ssp3,Imbiakalo Dispensary,15901,West Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+Sy2bE0LtTJx,Muting'ong'o Dispensary,16054,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,46,43
+MdJ4Zb1k9o6,Matungu Sub-District Hospital,16037,Mayoni Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,406,405
+rxOzjXrbCkg,Matete Health Centre,16005,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,252,246
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,12,12
+d4U4gk3e0uD,Ileho Health Centre,15900,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,121,80
+HLBR8Fm8NHq,Musembe Dispensary,16865,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,43,42
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+yBE1qjhnu5Q,Mung'ung'u Dispensary,16042,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,76,76
+vK6NKz2Sr8B,Kharanda Dispensary,15934,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,104,104
+kWzAmRGUHal,Kakamega Forest Dispensary,15914,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,100,99
+ZWaly1q0aqs,Imalaba Dispensary,16484,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,15,15
+MsF0OYgs0ut,Eregi Mission Health Centre,15881,Idakho South Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+rEKNga4CgFK,Eshikhuyu Dispensary,15882,Butsotso Central Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,43,42
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,96,95
+Ci1bld843vy,Chekalini Dispensary,15851,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,114,111
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,175,174
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+zsswqbRZEzQ,Shikusi Dispensary,16113,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,70
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,97,97
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,78,78
+PLczdqs5KKm,Nyaporo Dispensary,17082,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+FiGBHFGyJas,Turbo Forest Dispensary,16154,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,41,41
+Gwo8OLfAeek,Soy Sambu Dispensary,16134,Sango Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,29
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,11
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,248,246
+pZd75ZZ55tI,Elukhambi Dispensary,15872,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,29,29
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,94,94
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+KZokajoLAXf,Seregeya Dispensary,16102,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,30
+lbpwWBn36iE,Majengo Dispensary,15988,Lumakanda Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+UVRLJhXsWSL,Kimangeti Dispensary,15949,Chemuche Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+AbSJUr5oge2,Likuyani Sub-District Hospital,15961,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,269,264
+dI28kasf8Jj,Bushiri Health Centre,15833,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,267,265
+Hz0YZaxawTo,Ahmadiya Hospital,15791,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,65,65
+LJ5JNqUKr2k,Chegulo Dispensary,15850,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,50,50
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,89,87
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+S9Q1bx9tpZz,Chombeli Health Centre,15859,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+s10bI57eZ6v,Namulungu Dispensary,16070,Kholera Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,90,88
+Ohx8SxDgCfo,St Mary's Hospital (Mumias),16141,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,11,15
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,72,70
+Sy2bE0LtTJx,Muting'ong'o Dispensary,16054,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,48,48
+pyNcZj1SiiO,Mumias Dispensary,16035,Mumias Central Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,199,195
+El8fBMbWcrO,Kuvasali Health Centre,15959,East Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+UNbhlHZjMF2,Shamberere Dispensary,16105,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+Gwo8OLfAeek,Soy Sambu Dispensary,16134,Sango Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,27,27
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+sS7IzDF2Tm1,Malaha Dispensary,17150,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,106,105
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,97,97
+uBuA0tgQVms,Mumias Sugar Clinic,16038,Mumias North Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+ozud4J6eShX,Eshikulu Dispensary,17217,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,43,42
+bm0xjIsElOx,Namagara Dispensary,16064,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+V4mRikko5vW,Lung'anyiro Dispensary,15972,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,198,175
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+FkiRDv9jRrl,Ikuywa Dispensary,16717,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,23,21
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+hbWUwbyiJhb,Khaunga Dispensary,15936,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,129,127
+FkiRDv9jRrl,Ikuywa Dispensary,16717,Isukha East Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,40,39
+J2atPWRHPz7,Masinde Muliro University of Science and Technolog,16764,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,3,3
+tENZF6BO4Q7,Mukumu Hospital,16030,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,243,241
+aTrw18DrKW1,Mabusi Health Centre,15983,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,170,169
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+s10bI57eZ6v,Namulungu Dispensary,16070,Kholera Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+vK6NKz2Sr8B,Kharanda Dispensary,15934,Bunyala West Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+DdPmglUPme3,Kilingili Health Centre,15945,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,61,61
+zvicDsjeRbr,Lunyito Dispensary,15974,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,22
+MsF0OYgs0ut,Eregi Mission Health Centre,15881,Idakho South Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,25,25
+WHog7fSSmKt,Makunga Rhdc,15991,Malaha/Isongo/Makunga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,13,13
+JTL8OVhlUqF,Chebwai Mission Dispensary,15849,Butali/Chegulo Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,37,37
+zsswqbRZEzQ,Shikusi Dispensary,16113,Isukha South Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,85,84
+rVLDPAPrFsC,Imulama Dispensary,16481,Idakho North Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,181,178
+wCYNSByDP30,Nzoia Matete Dispensary,16086,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+pxlVNltvIME,Malava District Hospital,15996,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,381,369
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,172,169
+c6oal13vwWU,Shivanga Health Centre,16122,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,70,70
+Hvo3qjmJZTO,Sivilie Dispensary,16147,Bunyala East Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+PKZbcnRwCfc,Sinoko Dispensary (Likuyani),16127,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,54,54
+qknYkm1vsuY,Kambiri Health Centre,15916,Isukha North Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+kWzAmRGUHal,Kakamega Forest Dispensary,15914,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+TtPo1TF1tpl,Lutaso Dispensary,15978,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,12,12
+gl9nmj6WvWP,Budonga Dispensary,15812,Bunyala West Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+zRb4VBix3Qg,Matunda Nursing Home,16007,Nzoia Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,88,88
+wXYxrsjOc8d,Bungasi Health Centre,15827,Musanda Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+mzlrz5MPNNj,Mahanga Dispensary - Kakamega,15987,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+s7kF3iHFhmi,Mautuma Sub-District Hospital,16010,Mautuma Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,181,176
+iuatmqJAf90,Matunda Sub-District Hospital,16008,Nzoia Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Cyrvs2lDXuc,Musanda (ACK) Clinic,16049,Musanda Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,2,2
+z3XPCm6Ssp3,Imbiakalo Dispensary,15901,West Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+pZd75ZZ55tI,Elukhambi Dispensary,15872,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,16,16
+wcM6pww7h2a,Bukura Health Centre,15820,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,132,130
+sKHkoTOfodh,Elwasambi Dispensary,15873,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,40,40
+IwDcBQwgbEg,Sango Dispensary,16100,Sango Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,7
+eFmuvjEF89U,Mung'ang'a Dispensary,16041,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,45,45
+z9FKHisHLl1,Mukuyu Dispensary,16031,Mautuma Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,
+HRweTMDGBxV,Shihome Dispensary,16109,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+aldqNnKJgrg,Matioli Dispensary,16006,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,26,26
+nNM3ZA9ErqU,Shikusa Health Centre,16112,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,63,82
+aldqNnKJgrg,Matioli Dispensary,16006,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,21,20
+zjvUyYZscbf,St Charles Lwanga Health Centre,15957,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,53
+DIonv0JYDFH,Nala Maternity and Nursing Home,16062,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+r8z0MeOdroa,Lumani Dispensary,15970,Chevaywa Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+IPuJB69xbia,Jamia Medical Centre,15906,Mumias Central Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+ozud4J6eShX,Eshikulu Dispensary,17217,Etenje Ward,Mumias West Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,46,44
+FGkaUMhNlgb,Ematiha Dispensary,16867,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,53,53
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,70
+eFmuvjEF89U,Mung'ang'a Dispensary,16041,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,55,55
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,139,138
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,170,167
+MPbxqvaEWLa,Navakholo Sub-District Hospital,16078,Bunyala Central Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,201,206
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,163,161
+y1jWd1Ug7ts,Shibwe Sub-District Hospital,16107,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+COpiQeVtvEL,St Pius Musoli Health Centre,16145,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,23,23
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,192,187
+ilI3ROaTEuf,Maturu Dispensary,16009,Lwandeti Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,195,192
+y1jWd1Ug7ts,Shibwe Sub-District Hospital,16107,Idakho Central Ward,Ikolomani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+yBE1qjhnu5Q,Mung'ung'u Dispensary,16042,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,135,135
+COpiQeVtvEL,St Pius Musoli Health Centre,16145,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,24,24
+sKHkoTOfodh,Elwasambi Dispensary,15873,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,42,41
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+yanWZpO1esQ,GK Prisons Dispensary (Kakamega Central),15892,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,68,68
+D4qI2X6dXcu,Chimoi Health Centre,15858,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+bm0xjIsElOx,Namagara Dispensary,16064,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+FGkaUMhNlgb,Ematiha Dispensary,16867,Ingoste-Matiha Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,43,42
+tmOunpxPDt9,Ap Line Dispensary,15801,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,12,12
+BRIBehwYmcd,Shamakhubu Health Centre,16104,Murhanda Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+zjvUyYZscbf,St Charles Lwanga Health Centre,15957,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,34
+GsdR4nzQbYe,Murudef Clinic,16048,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,4,4
+zjvUyYZscbf,St Charles Lwanga Health Centre,15957,Chekalini Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,25,24
+GsdR4nzQbYe,Murudef Clinic,16048,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,4,4
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+CceWNo4yXvT,Malekha Dispensary,15997,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+cMV2EgW6Tza,Mahatma Gandi Health Centre,16144,Isukha South Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+nNM3ZA9ErqU,Shikusa Health Centre,16112,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,47,45
+yanWZpO1esQ,GK Prisons Dispensary (Kakamega Central),15892,Shirere Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+k0yug2XqYRT,Lumakanda District Hospital,15969,Lumakanda Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,240,239
+COpiQeVtvEL,St Pius Musoli Health Centre,16145,Idakho Central Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,42,42
+mfEvntdmjUe,Chevoso Dispensary,15857,South Kabras Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+ndBnE6yUjoy,Bukaya Health Centre,15817,Etenje Ward,Mumias West Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+vhGugNZUV3w,Savane Dispensary,16101,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,49,49
+hUDoz9oxecE,Eshiongo Dispensary,15883,Shinoyi-Shikomari-Esumeiya Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,72,72
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,65,65
+PKZbcnRwCfc,Sinoko Dispensary (Likuyani),16127,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,74,74
+r5bAjjkOcRq,Khalaba Health Centre,15931,Khalaba Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,196,181
+TtPo1TF1tpl,Lutaso Dispensary,15978,Bunyala East Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,7,7
+vlaFA7e0Boh,Lusheya Health Centre,15977,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+hUDoz9oxecE,Eshiongo Dispensary,15883,Shinoyi-Shikomari-Esumeiya Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,76,74
+S9Q1bx9tpZz,Chombeli Health Centre,15859,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+zvicDsjeRbr,Lunyito Dispensary,15974,Lugari Ward,Lugari Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,31,29
+KzjIbQebF4W,Shiseso Health Centre,16119,Idakho North Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,101,99
+uj2UMJenimd,Nabongo Dispensary,16059,Sheywe Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,177,170
+WVQA3Ztjy6t,Iguhu District Hospital,15899,Idakho East Ward,Ikolomani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,137,135
+fVYB9g9ByWU,Elwesero Dispensary,15874,Shirere Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,146,139
+iIngX6G2Ezq,Kongoni Health Centre,15955,Kongoni Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,174,174
+wP6cPKxmPwl,Approved Dispensary,15804,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,83,81
+nNM3ZA9ErqU,Shikusa Health Centre,16112,Isukha North Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,51
+IBvuTu4Q05K,Eshirembe Dispensary,17133,Butsotso South Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,9,9
+z9FKHisHLl1,Mukuyu Dispensary,16031,Mautuma Ward,Lugari Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,116,115
+KWE4k0FdpyQ,Mulwanda Dispensary,16033,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,45,44
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,41
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+cSJA4hwmlLm,Mwihila Mission Hospital,16058,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,52,49
+S0pNUj8UTsw,Manda Dispensary,17681,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,66,66
+OB7IC7CcLnh,Sonak Clinic,16132,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,115,111
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+z6NaFzIMBFT,Namasoli Health Centre,16065,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,32,32
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,191,190
+h5OdkQ5jKdv,Emalindi Health Centre,17409,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+SL8fi4azWSe,Mugai Dispensary,18779,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,49,47
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,23,23
+Sl09BVeTcZl,Mundoli Health Centre,16040,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,15,15
+dAnPb1AZoKy,Shinutsa Dispensary,16115,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+dAnPb1AZoKy,Shinutsa Dispensary,16115,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,51,44
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,66,65
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+dAnPb1AZoKy,Shinutsa Dispensary,16115,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,54,52
+h5OdkQ5jKdv,Emalindi Health Centre,17409,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,6,5
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,169,165
+PMtDVZGDXRv,Elwangale Health Centre,16714,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,37,36
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,13,13
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,156,156
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,97,95
+SL8fi4azWSe,Mugai Dispensary,18779,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,31
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,55,53
+cSJA4hwmlLm,Mwihila Mission Hospital,16058,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,23,23
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,170,167
+KWE4k0FdpyQ,Mulwanda Dispensary,16033,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,52
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,22,22
+z6NaFzIMBFT,Namasoli Health Centre,16065,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,35,35
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,54,53
+ZhDOwErGfV4,Lukoye Health Centre,17298,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+QR2K4k8VKF1,Masaba Dispensary,16715,Marama South Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,10,10
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,116,114
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,13,13
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,178,176
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,22
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,53,52
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,26,26
+S0pNUj8UTsw,Manda Dispensary,17681,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,72,71
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,106,104
+S0pNUj8UTsw,Manda Dispensary,17681,Manda-shivanga Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,32,32
+dkDsAHgijLc,Mabole Health Centre,17297,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,82,82
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,51,50
+dkDsAHgijLc,Mabole Health Centre,17297,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,63,60
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,9,9
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,44,44
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,85,81
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,160,157
+z6NaFzIMBFT,Namasoli Health Centre,16065,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,28,28
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,10,10
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,224,220
+OB7IC7CcLnh,Sonak Clinic,16132,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,19,19
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,121,116
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+cSJA4hwmlLm,Mwihila Mission Hospital,16058,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,43,41
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,81,81
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,213,209
+KWE4k0FdpyQ,Mulwanda Dispensary,16033,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,60,56
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+KWE4k0FdpyQ,Mulwanda Dispensary,16033,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,60,60
+dkDsAHgijLc,Mabole Health Centre,17297,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,81,78
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,27,27
+SL8fi4azWSe,Mugai Dispensary,18779,Shirungu-mugai Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+ZhDOwErGfV4,Lukoye Health Centre,17298,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,35
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+PMtDVZGDXRv,Elwangale Health Centre,16714,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,45,44
+cSJA4hwmlLm,Mwihila Mission Hospital,16058,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+h5OdkQ5jKdv,Emalindi Health Centre,17409,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,16,15
+PMtDVZGDXRv,Elwangale Health Centre,16714,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+dAnPb1AZoKy,Shinutsa Dispensary,16115,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+ZhDOwErGfV4,Lukoye Health Centre,17298,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,48
+h5OdkQ5jKdv,Emalindi Health Centre,17409,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,22,22
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+SL8fi4azWSe,Mugai Dispensary,18779,Shirungu-mugai Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,43,43
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,110,108
+KWE4k0FdpyQ,Mulwanda Dispensary,16033,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,57,54
+cSJA4hwmlLm,Mwihila Mission Hospital,16058,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,34,34
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+DN1DpNnTw3q,Shitsitswi Health Centre,16121,Marama Central Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+OVV0fHS7fux,Butere District Hospital,15836,Marama Central Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,227,224
+dAnPb1AZoKy,Shinutsa Dispensary,16115,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,44
+VymFeOiKKGv,Shikunga Health Centre,16111,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,85,83
+S0pNUj8UTsw,Manda Dispensary,17681,Manda-shivanga Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+kyuG50xCh7R,Khwisero Health Centre,15940,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+Jq3sWm3tMJy,Manyala Sub-District Hospital,15999,Marama South Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,121,119
+z6NaFzIMBFT,Namasoli Health Centre,16065,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Sl09BVeTcZl,Mundoli Health Centre,16040,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,17,17
+kbg8aYUzgUM,Shinyalu Health Centre,17596,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+ZhDOwErGfV4,Lukoye Health Centre,17298,Marama North Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,35,33
+PMtDVZGDXRv,Elwangale Health Centre,16714,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,53
+fB3xG06tgRu,Shisaba Dispensary,16118,Marama West Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+Sl09BVeTcZl,Mundoli Health Centre,16040,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,19,19
+dkDsAHgijLc,Mabole Health Centre,17297,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+guZb4if7tPO,Mutsetsa Dispensary,16055,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+OB7IC7CcLnh,Sonak Clinic,16132,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,17,16
+UptqVvZaPxr,Mugomari Dispensary,17597,Isukha west Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,
+hVOEvLLuWx6,Eshimukoko Health Centre,16114,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+z6NaFzIMBFT,Namasoli Health Centre,16065,Kisa Central Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+OB7IC7CcLnh,Sonak Clinic,16132,Kisa Central Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,15,15
+Qvul0TKYFSw,Muhaka Disensary,16027,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+agO9AbQPxH4,Shiraha Health Centre,16116,Marama North Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+dkDsAHgijLc,Mabole Health Centre,17297,Marenyo-Shianda Ward,Butere Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+Z65JvisTm4o,Lumino Dispensary,18624,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,27,26
+Z65JvisTm4o,Lumino Dispensary,18624,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,30
+Z65JvisTm4o,Lumino Dispensary,18624,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+wTvF9os0GY9,Mirere Health Centre,17931,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,81,80
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,66,65
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,46,38
+wTvF9os0GY9,Mirere Health Centre,17931,Namamali Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+wTvF9os0GY9,Mirere Health Centre,17931,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,103,103
+W4iT4HvZqo1,Mlimani Dispensary,18625,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,42
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,102,102
+W4iT4HvZqo1,Mlimani Dispensary,18625,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,65,65
+W4iT4HvZqo1,Mlimani Dispensary,18625,Sinoko Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,40,40
+Z65JvisTm4o,Lumino Dispensary,18624,Likuyani Ward,Likuyani Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,24
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,1
+Z65JvisTm4o,Lumino Dispensary,18624,Likuyani Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+wTvF9os0GY9,Mirere Health Centre,17931,Namamali Ward,Matungu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,76,76
+wTvF9os0GY9,Mirere Health Centre,17931,Namamali Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+FqsoLjbSI9A,Indangalasia Dispensary,17929,Koyonzo Ward,Matungu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+W4iT4HvZqo1,Mlimani Dispensary,18625,Sinoko Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+W4iT4HvZqo1,Mlimani Dispensary,18625,Sinoko Ward,Likuyani Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+TDU6t8gEJgE,Sakali Dispensary,19960,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,40,39
+Bmhbkq3ILv5,Vikunga Dispensary,20174,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,28
+Tns72Eh3EfT,Butingo Dispensary,20043,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,82,82
+iWFObHTUbzT,Eluche,18361,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,43,41
+BEjIOW8DUVY,Kamashia Dispensary,18802,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,54
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+oRbDEjHUl6c,Virhembe Medical Clinic,20175,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,29,29
+ODM2QM6y8hO,Sisokhe Dispensary,20041,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,63,63
+iWFObHTUbzT,Eluche,18361,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,33,33
+ODM2QM6y8hO,Sisokhe Dispensary,20041,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,89,89
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,52
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,49,49
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,55,53
+Bmhbkq3ILv5,Vikunga Dispensary,20174,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,46,45
+oRbDEjHUl6c,Virhembe Medical Clinic,20175,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,34,34
+AKCk8JAY0dK,Kisembe Dispensary,20044,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,45,45
+BEjIOW8DUVY,Kamashia Dispensary,18802,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,49,49
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,47,46
+TDU6t8gEJgE,Sakali Dispensary,19960,Mahiakalo Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+Xcn5Q2e73rw,Mundobelwa Health Centre,20516,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,32,31
+Xcn5Q2e73rw,Mundobelwa Health Centre,20516,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,20,20
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+AKCk8JAY0dK,Kisembe Dispensary,20044,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,48
+Xcn5Q2e73rw,Mundobelwa Health Centre,20516,Kisa North Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,30,27
+oRbDEjHUl6c,Virhembe Medical Clinic,20175,Isukha Central Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,38,37
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+BEjIOW8DUVY,Kamashia Dispensary,18802,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,23,23
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,48,47
+AKCk8JAY0dK,Kisembe Dispensary,20044,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,31
+TDU6t8gEJgE,Sakali Dispensary,19960,Mahiakalo Ward,Lurambi Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Bmhbkq3ILv5,Vikunga Dispensary,20174,Isukha west Ward,Shinyalu Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,25,25
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,79,77
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,52,49
+iWFObHTUbzT,Eluche,18361,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,31
+BEjIOW8DUVY,Kamashia Dispensary,18802,Lusheya/Lubinu Ward,Mumias East Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+Tns72Eh3EfT,Butingo Dispensary,20043,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,47,47
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+WKpi4HTOfa6,Eshiabwali Dispensary,19899,Kisa East Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+Ky6P5BmX0sQ,Ebuhala Health Centre,20515,Kisa West Ward,Khwisero Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,57,57
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,67,67
+ODM2QM6y8hO,Sisokhe Dispensary,20041,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,97,97
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,93,88
+Bmhbkq3ILv5,Vikunga Dispensary,20174,Isukha west Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+Tns72Eh3EfT,Butingo Dispensary,20043,Bunyala West Ward,Navakholo Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,76,74
+oRbDEjHUl6c,Virhembe Medical Clinic,20175,Isukha Central Ward,Shinyalu Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+AKCk8JAY0dK,Kisembe Dispensary,20044,Bunyala West Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+TDU6t8gEJgE,Sakali Dispensary,19960,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,39,39
+Xcn5Q2e73rw,Mundobelwa Health Centre,20516,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+Xcn5Q2e73rw,Mundobelwa Health Centre,20516,Kisa North Ward,Khwisero Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+TDU6t8gEJgE,Sakali Dispensary,19960,Mahiakalo Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,21,21
+d7xdgRnT1pE,Shianda Dispensary,20194,East wanga Ward,Mumias East Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,124,120
+rGIiGfPUc5P,Emukaba Dispensary,20039,Butsotso East Ward,Lurambi Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,53
+AKCk8JAY0dK,Kisembe Dispensary,20044,Bunyala West Ward,Navakholo Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+f6tOBNIJ0HW,Amaiga Dispensary (Manga),20684,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,28,
+f6tOBNIJ0HW,Amaiga Dispensary (Manga),20684,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,
+XGZfxVpbX5c,Butere Iranda Health Centre,18939,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,44
+f6tOBNIJ0HW,Amaiga Dispensary (Manga),20684,Chemuche Ward,Malava Sub County,Kakamega County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+f6tOBNIJ0HW,Amaiga Dispensary (Manga),20684,Chemuche Ward,Malava Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,39,39
+XGZfxVpbX5c,Butere Iranda Health Centre,18939,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,29
+XGZfxVpbX5c,Butere Iranda Health Centre,18939,Marama West Ward,Butere Sub County,Kakamega County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,51,50

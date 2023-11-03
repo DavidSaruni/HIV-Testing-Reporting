@@ -1,0 +1,876 @@
+facilityuid,facility,code,ward,sub_county,county,indicator,indicator_name,period,dhis2_value,datim_value
+SZnkrFoimi2,Kugitimo Health Centre,13723,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,64,64
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,119,124
+NoZjHcIDHGW,Kegonga District Hospital,13663,Nyabasi east Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+SZnkrFoimi2,Kugitimo Health Centre,13723,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,46,45
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,194,191
+fb6IuqPC7fr,Gwitembe Dispensary,13597,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,78,78
+SZnkrFoimi2,Kugitimo Health Centre,13723,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,41,41
+kVVmxGZKCfA,Chinato Dispensary,13526,Nyabasi west Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,161,161
+NoZjHcIDHGW,Kegonga District Hospital,13663,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,147,142
+kVVmxGZKCfA,Chinato Dispensary,13526,Nyabasi west Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+fb6IuqPC7fr,Gwitembe Dispensary,13597,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,71
+NoZjHcIDHGW,Kegonga District Hospital,13663,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,152,152
+NoZjHcIDHGW,Kegonga District Hospital,13663,Nyabasi east Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,106,104
+fb6IuqPC7fr,Gwitembe Dispensary,13597,Ntimaru west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,67,63
+kVVmxGZKCfA,Chinato Dispensary,13526,Nyabasi west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,81,80
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,1
+SZnkrFoimi2,Kugitimo Health Centre,13723,Nyabasi east Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+xt2lltkTLza,Ntimaru Sub-District Hospital,13858,Ntimaru west Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+kVVmxGZKCfA,Chinato Dispensary,13526,Nyabasi west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,96,96
+NoZjHcIDHGW,Kegonga District Hospital,13663,Nyabasi east Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+kVVmxGZKCfA,Chinato Dispensary,13526,Nyabasi west Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,35,63
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,179,174
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,145,144
+TzHwSMZNntq,Muchebe Dispensary,13830,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,35,35
+aWpElDmioIw,Kuja Dispensary,13724,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,27
+hHb5SzuuyHK,Nyabokarange Dispensary,13862,Bukira Central/Ikerege Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,28,26
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,250,243
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,36,35
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,39,39
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,37,36
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,94,93
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,9
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,131,124
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,230,223
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,49,46
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,44,39
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,43,43
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+dWATcMI6XJL,Angaga Dispensary,17050,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,430,408
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,21,20
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,218,214
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,9,5
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,35,35
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,32,32
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,106,106
+BSIVRetkq9o,Getongoroma Dispensary,13569,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,59,58
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,51,50
+aWpElDmioIw,Kuja Dispensary,13724,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,14,9
+OnMW8Kn4YDf,Ogada Dispensary,13960,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,52
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,120,117
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,85,82
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,52,52
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,24,24
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,5,5
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,40
+KpXqE32Rm1d,Kombe Dispensary,13713,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,28,25
+ZjLUO5whjGS,Aneko Dispensary,13478,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,23,22
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,11,19
+nnQCgclxCj6,Taranganya Dispensary,14144,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,55
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,136,131
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,6
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,107,104
+GNwx6r3BZ8O,Pastor Machage Memorial Hospital,14014,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,2,4
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,160,158
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,35,34
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,37,35
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,51,50
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,7,5
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,10,10
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,13,13
+Dsv44iuGboK,St Akidiva Memorial Hospital,14101,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+KpXqE32Rm1d,Kombe Dispensary,13713,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,28,27
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,69
+ZjLUO5whjGS,Aneko Dispensary,13478,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,45
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,98,92
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,45,44
+LFBf0WwBzaX,Tisinye Dispensary,14149,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,3
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,80,73
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,323,315
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,6,5
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,11,11
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,226,213
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,64,62
+LFBf0WwBzaX,Tisinye Dispensary,14149,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,46,46
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+aWpElDmioIw,Kuja Dispensary,13724,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,49,48
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,57
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,9,8
+BXOrXdOZoWE,Macalder Sub-District Hospital,13745,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,72,67
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,67,67
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,50,48
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,3
+TzHwSMZNntq,Muchebe Dispensary,13830,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,25,25
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,37,37
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,5,5
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,10,10
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,9,9
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,33,33
+fzoNOK6Nrqc,Nyamekongoroto Health Centre,13907,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,73,73
+ZjLUO5whjGS,Aneko Dispensary,13478,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,24
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,39,40
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,83,79
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,31
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,84,82
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,10,10
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,49,49
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,87,83
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,62,41
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,120,116
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,21,21
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,174,169
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,111,107
+sDgMJ46sG5P,Mogori-Komasimo Health Centre,16721,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,107,106
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,43,42
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,44,41
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,149,149
+Dsv44iuGboK,St Akidiva Memorial Hospital,14101,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,18,17
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,78,75
+sDgMJ46sG5P,Mogori-Komasimo Health Centre,16721,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,172,171
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,29,29
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,68,67
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,34,31
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,18,18
+Sv7XZqXiyCP,Nyametaburo Health Centre,13909,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,48
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,46,45
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,19,10
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,111,108
+BSIVRetkq9o,Getongoroma Dispensary,13569,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,58,56
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,88,91
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,55,52
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,66,66
+sDgMJ46sG5P,Mogori-Komasimo Health Centre,16721,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,124,124
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,116,114
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,11,11
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,61,58
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,71,110
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,72,69
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,153,148
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,40,38
+kmEXAwkvnDQ,Nyangoge Health Centre,13927,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,45,45
+Uvv85m35TMs,Ondong Dispensary,16277,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,32,52
+Sv7XZqXiyCP,Nyametaburo Health Centre,13909,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,40,38
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,41
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,74,70
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,71,69
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+Sv7XZqXiyCP,Nyametaburo Health Centre,13909,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,40,41
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,68,65
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,56,53
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,36,36
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,388,365
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,122,120
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,10
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,12,12
+dWATcMI6XJL,Angaga Dispensary,17050,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,27,26
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,17,16
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,10,10
+BXOrXdOZoWE,Macalder Sub-District Hospital,13745,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,86,85
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,11,11
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,17,16
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,27,27
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,42,41
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,55,54
+fzoNOK6Nrqc,Nyamekongoroto Health Centre,13907,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,54,63
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,78,78
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,56,56
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,39,37
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,69,66
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,130,125
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,5
+Uvv85m35TMs,Ondong Dispensary,16277,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,5
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,30,40
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,13,13
+IH4gWpzva9S,Motemorabu Dispensary,13824,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,33,33
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,134,133
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,57,56
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,61,61
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,39,38
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,35,35
+nnQCgclxCj6,Taranganya Dispensary,14144,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,55,57
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,17,17
+ghUdW9zdUuu,Nyaburi Clinic,13865,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,21,21
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,15,15
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,112,111
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,35,35
+IH4gWpzva9S,Motemorabu Dispensary,13824,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,57,56
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,16,15
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,106,104
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,7
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,62,59
+dWATcMI6XJL,Angaga Dispensary,17050,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,34,32
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,38,37
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,157,151
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,123,122
+BSIVRetkq9o,Getongoroma Dispensary,13569,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,48,50
+G4FemD36hGF,Osingo Dispensary,13996,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,31,53
+nnQCgclxCj6,Taranganya Dispensary,14144,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,66,67
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,11,11
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,39,39
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,167,160
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,36,36
+KpXqE32Rm1d,Kombe Dispensary,13713,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,30,26
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,275,271
+FpS8TixqWn4,Ombo Kowiti,17039,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,37
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,26,26
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+TzHwSMZNntq,Muchebe Dispensary,13830,Mokerero Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,22,21
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,12,12
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,40
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,26,24
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,5
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,34,34
+MQcFGwW1QsE,Kopanga Health Center,13718,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,104,103
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,13,13
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,3,3
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,82,82
+WlgH5Q5Y6kZ,Nyakuru Dispensary,13885,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,5
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,6
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,12,12
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,11,11
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,65,65
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+NpKmhJBECVb,Saro Dispensary,14069,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,83,81
+xa8ZMxIarv6,Giribe Dispensary,13576,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,103,102
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,82,74
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,47
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,58,57
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+aWpElDmioIw,Kuja Dispensary,13724,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,1
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,74,73
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,52,65
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,434,423
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,16,16
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+IH4gWpzva9S,Motemorabu Dispensary,13824,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,27,25
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,36
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,24,24
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,47,47
+cZQlPWrhosA,Oruba Nursing and Maternity Home,13993,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,2
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+Uvv85m35TMs,Ondong Dispensary,16277,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,7
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,27,26
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,138,137
+xKOxyxxlXk1,Suna Nursing and Maternity Home,14134,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,12,12
+MQcFGwW1QsE,Kopanga Health Center,13718,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+V6P9Brv9LmO,Otati Dispensary,13999,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,19,19
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,32
+OnMW8Kn4YDf,Ogada Dispensary,13960,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,11
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,142,140
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,63,63
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,16,16
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,6
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,26,25
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,55,55
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,14,14
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,21,22
+cZQlPWrhosA,Oruba Nursing and Maternity Home,13993,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+RPdnWtp0vRd,Ochuna Dispensary,13959,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,19,19
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+YFSNlKvGVDj,Lwanda Dispensary,13741,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,11,11
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,131,130
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,28
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,51,50
+mvhjOGeHZbK,Nyandago Koweru Dispensary,13919,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,14
+Z7ruKy2DyTa,Kadem Tb & Leprosy Dispensary,13640,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,15,15
+pS72TtLnCvM,Ongito Dispensary,13988,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,17,17
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,25,25
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,18,16
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,39
+pJP2SYBe0bB,Nyamasare Dispensary,13900,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,11,11
+RPdnWtp0vRd,Ochuna Dispensary,13959,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,3
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,11,11
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,169,166
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,56,57
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,18,18
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,10,10
+hHb5SzuuyHK,Nyabokarange Dispensary,13862,Bukira Central/Ikerege Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,74,74
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,41,41
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,37
+KJrHBLlkXkW,Masaba Health Centre,13779,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,49,48
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,52,48
+cZQlPWrhosA,Oruba Nursing and Maternity Home,13993,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,35,35
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,112,110
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+RPdnWtp0vRd,Ochuna Dispensary,13959,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,18,23
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,39,46
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,33
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,13,13
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,25,25
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,55,54
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,12,12
+dWATcMI6XJL,Angaga Dispensary,17050,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,39,40
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,140,131
+kmEXAwkvnDQ,Nyangoge Health Centre,13927,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,40,40
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,12,12
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,13,13
+xaQ9Z2jrxRM,Anjego Dispensary,13480,Kakrao Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,49,48
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,43,43
+I2z6MT7pHrX,Ranen (SDA) Dispensary,14032,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,82,78
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,23,23
+OnMW8Kn4YDf,Ogada Dispensary,13960,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,27,26
+MQcFGwW1QsE,Kopanga Health Center,13718,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,40,49
+UY3IInX1rgt,Yago Dispensary,16279,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,5
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,14,14
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,65,62
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,9,9
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,26,26
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,4
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,271,272
+Uvv85m35TMs,Ondong Dispensary,16277,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,34,37
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+ghUdW9zdUuu,Nyaburi Clinic,13865,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,35,49
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,71,70
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,45,45
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,26,26
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,47
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+hHb5SzuuyHK,Nyabokarange Dispensary,13862,Bukira Central/Ikerege Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,92,89
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,227,223
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,9,9
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,23,23
+nt3hEvSThtX,Getambwega Dispensary,13565,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,30
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,52,51
+gFC5kCFDDqG,Isibania Sub-District Hospital,13625,Isibania Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,70,65
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,24,24
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,66,72
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,57,55
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,53,49
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+DDiNOmleakD,Siruti Dispensary,17051,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,119,116
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,4
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,147,143
+RPdnWtp0vRd,Ochuna Dispensary,13959,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,5,4
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+MQcFGwW1QsE,Kopanga Health Center,13718,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,14,14
+fzoNOK6Nrqc,Nyamekongoroto Health Centre,13907,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,80,79
+kmEXAwkvnDQ,Nyangoge Health Centre,13927,Tagare Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,34,34
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,7,7
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,74,74
+cZQlPWrhosA,Oruba Nursing and Maternity Home,13993,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,41,40
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,37,36
+dWATcMI6XJL,Angaga Dispensary,17050,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,45,43
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,12,12
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,21,20
+NDFVW6VFCnE,Nyamaraga Health Centre,13897,Wasimbete Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,6
+MQcFGwW1QsE,Kopanga Health Center,13718,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,70,69
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,39,38
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,1
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,43,42
+hcF52HKSsCR,Suna Rabuor Dispensary,14135,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,37,36
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,3
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,120,107
+NRf14PUD9xc,Karungu Sub-District Hospital,13656,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,150,144
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,133,131
+Uvv85m35TMs,Ondong Dispensary,16277,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,50,53
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,82,81
+syMX95GoW0g,Kituka Dispensary,13706,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,74,74
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,118,115
+EVf9vo84kFZ,Oyani Health Centre,14009,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+OnMW8Kn4YDf,Ogada Dispensary,13960,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,31,31
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+nt3hEvSThtX,Getambwega Dispensary,13565,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,10,10
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+dwu3NQizNkT,Kuria District Hospital,13726,Bukira east Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,272,269
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,48,45
+OQUMus9IsA1,Bugumbe Health Centre,13517,Tagare Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+hLMDMOsAv6Y,Bande Dispensary,13494,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,40,39
+WV0WSrN5Wki,Oyani SDA,14008,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,24
+XWycxNbm28F,Ngodhe Dispensary,13853,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,153,151
+HIbQsMgPQm0,Othoro,14003,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,6,6
+g8H5Hr3A1QX,Riat Dispensary (Migori),14047,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+UY3IInX1rgt,Yago Dispensary,16279,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+RPdnWtp0vRd,Ochuna Dispensary,13959,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,11,10
+KJrHBLlkXkW,Masaba Health Centre,13779,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,42,42
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,79,66
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,36,34
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,89,88
+Oh2bAGRnSwV,Ogwedhi Health Centre,13969,Kwa Ward,Suna East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,103,100
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,87,82
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,18,18
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,29,39
+dW7oScLnDy2,Winjo Dispensary,14173,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,2
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+KJrHBLlkXkW,Masaba Health Centre,13779,Masaba Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,58,57
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,16,16
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,44,44
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,2,4
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+iX9MCYrhHOP,Koloo Dispensary,17038,North kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,63,63
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,38,37
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,207,201
+dOTpdQwrYeN,Migori District Hospital,13805,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,59,57
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,63,63
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,4
+UMheUvXia9d,Nyamanga Dispensary,13896,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,33,32
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,13,13
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,35,35
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,15,15
+QzrC7FpTOCf,Macalder Mission Dispensary,13744,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,44,43
+orKDpItM56v,Agenga Dispensary,13467,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,36,36
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,218,216
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,28,28
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,62,59
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,10,11
+Dsv44iuGboK,St Akidiva Memorial Hospital,14101,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,15,14
+cZQlPWrhosA,Oruba Nursing and Maternity Home,13993,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,34,39
+GNwx6r3BZ8O,Pastor Machage Memorial Hospital,14014,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,10,8
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+aWpElDmioIw,Kuja Dispensary,13724,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,43
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,4
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,29,29
+cdSguOsrorH,Iraha Dispensary,13619,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,20,20
+ghUdW9zdUuu,Nyaburi Clinic,13865,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,10,15
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,50,49
+zwV7ekHDAwe,Sori Lakeside Nursing and Maternity Home,14098,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+wd25QXppWr2,Bware Dispensary,13519,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,40,29
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,31,31
+ghUdW9zdUuu,Nyaburi Clinic,13865,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,18,18
+DmDKo97EhtM,Osogo Dispensary,13997,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,38,36
+LFBf0WwBzaX,Tisinye Dispensary,14149,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,75,71
+Dsv44iuGboK,St Akidiva Memorial Hospital,14101,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+OnMW8Kn4YDf,Ogada Dispensary,13960,Wasimbete Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,18,18
+gMhjxJKU9mM,St Monica Rapogi Health Centre,14121,North kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,37,37
+ZjLUO5whjGS,Aneko Dispensary,13478,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,30,29
+cd2oXY1uQan,Verna Health Centre,14166,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,58,54
+MxwFljO9mmy,Sibuoche Dispensary,14082,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,53,53
+nt3hEvSThtX,Getambwega Dispensary,13565,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+cdSguOsrorH,Iraha Dispensary,13619,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,40,38
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,170,167
+WPhMyqa7tMP,Kombato Dispensary,16270,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,8
+sAMKlirWAu6,Nyarongi Dispensary,13940,Kakrao Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,8,8
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,9,9
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,18,18
+hHb5SzuuyHK,Nyabokarange Dispensary,13862,Bukira Central/Ikerege Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,64,50
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,8,8
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,45,33
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,261,252
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,11
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,4
+ZjLUO5whjGS,Aneko Dispensary,13478,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,25,25
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,6
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,23,23
+SPfT81d1gVx,Namba Kodero Dispensary,16273,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,9,9
+Dsv44iuGboK,St Akidiva Memorial Hospital,14101,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,32,32
+LFBf0WwBzaX,Tisinye Dispensary,14149,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,99,91
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,22,22
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,42,40
+KV7mZo1P75i,Rongo District Hospital,14058,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,285,277
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+JdqOvfWtH49,Ndiwa Dispensary,13844,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+bi747puqsrA,Matoso Health Clinic,13793,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,4
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,113,110
+jC5xoC8BnPT,St Barnabas Dispensary,14102,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+sDgMJ46sG5P,Mogori-Komasimo Health Centre,16721,Masaba Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+q3Hiw70svzH,Midoti Dispensary,13804,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,6
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,25,25
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,30,27
+KJrHBLlkXkW,Masaba Health Centre,13779,Masaba Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+LYR8fhhFOaQ,Duruma,16268,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,24
+jSsqGE88rMQ,Wath Onger Dispensary,14170,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,47,44
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,46,45
+cLo2mMOlSkq,Muhuru Health Centre,13833,Muhuru Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,24,24
+ZBtoRProc6e,Awendo Sub-District Hospital,13492,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,151,151
+sR008hvpu5e,Sony Medical Centre,14097,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,13,6
+JJHQ16uTrPX,St Camillus Mission Hospital,14103,Kachieng' Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,13,13
+nt3hEvSThtX,Getambwega Dispensary,13565,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,37,38
+naa6PTuNZM4,Jevros Clinic,13635,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,8,7
+LFBf0WwBzaX,Tisinye Dispensary,14149,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,62,92
+eNAWFykGp3w,Uriri Health Centre,14161,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,15,15
+LPKh4nXw3jE,Kipingi Dispensary,16269,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,14,14
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,130,126
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+leXuCmyYwWX,Ngere Dispensary,13850,East kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,53,53
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+LGgFPRuWpws,Mariwa Health Centre,13778,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+ghUdW9zdUuu,Nyaburi Clinic,13865,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,57,16
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,14,14
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,42,42
+sJHMc412zV6,Thim Lich Dispensary,16278,North kadem Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,46
+GNwx6r3BZ8O,Pastor Machage Memorial Hospital,14014,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,1,1
+FIDsgV3ezn0,Olasi Dispensary,13975,Kaler Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,30,28
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,19,19
+nt3hEvSThtX,Getambwega Dispensary,13565,Gokeharaka/getambwega Ward,Kuria East Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,48,49
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,10,10
+Sv7XZqXiyCP,Nyametaburo Health Centre,13909,Mokerero Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,11
+WG7O02P8x4T,Dede Dispensary,13532,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,11
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,11,11
+cdSguOsrorH,Iraha Dispensary,13619,Nyamosense/komosoko Ward,Kuria West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,24,45
+RuVa3z3qxpv,Minyenya Dispensary,13809,North kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,74,72
+UY3IInX1rgt,Yago Dispensary,16279,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,20,18
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+nNxsnNursRY,Otacho Dispensary,13998,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,33,30
+Z4h8itV1gpt,Lwala Dispensary,13740,North kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,23,23
+ImG6wgclN06,Ongo Health Centre,13989,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,4
+Dp9uga9zfqH,God Kwer Dispensary,13583,Wiga Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,18,18
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,2
+BXOrXdOZoWE,Macalder Sub-District Hospital,13745,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,12,12
+BXOrXdOZoWE,Macalder Sub-District Hospital,13745,Macalder/kanyarwanda Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,14,14
+B8Y8xuk4MFf,Ngo'nga Dispensary,17052,South sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,10,10
+UY3IInX1rgt,Yago Dispensary,16279,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,15,15
+WDe0umtdbif,Kabuto Dispensary,13639,North kadem Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,4
+G44EhGVs2FX,God Jope Dispensary,13582,God jope Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,4,4
+Sepsy4Bb35C,Suna Ragana Dispensary,14136,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,11,11
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,104,103
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,110,106
+WnyXc5FYO5e,Ulanda Dispensary,14157,East kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,4,4
+RpoDr08py8E,Rapcom Nursing and Maternity Home,14037,North sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,86,81
+aCOEeeYEcsO,Rabondo Dispensary,14019,West sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,7,7
+KJrHBLlkXkW,Masaba Health Centre,13779,Masaba Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,2
+QiXeOXMmlX0,Arombe Dispensary,13486,Wiga Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,135,129
+Oa3osQS1OkN,St Joseph Mission Hospital,14110,Suna central Ward,Suna East Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,21,21
+G2SApeuVqIS,Royal Nursing Home,14061,Central kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,15,15
+UY3IInX1rgt,Yago Dispensary,16279,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,13,11
+hpkiX97MN3B,Othoch Rakuom Dispensary,14001,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,5
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,1,1
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,5,5
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,26,25
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,2,2
+EzccfHE7VSe,Obware Dispensary,20568,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,6,5
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,40,40
+EzccfHE7VSe,Obware Dispensary,20568,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,17,23
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,7,7
+EzccfHE7VSe,Obware Dispensary,20568,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,23,23
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,2
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,41,41
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,3,3
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,5,5
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,1,1
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,44,44
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,3,3
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,46,46
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,4,4
+EzccfHE7VSe,Obware Dispensary,20568,Kanyasa Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,14,13
+EzccfHE7VSe,Obware Dispensary,20568,Kanyasa Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,2,3
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,49,48
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,37,35
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,31,31
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,23,22
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,42,42
+z3nMgma1Kt1,Piny Owacho Dispensary,17343,Central kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,23,22
+Z5pVNJJr6WL,Ombo Bita Dispensary,17607,Central sakwa Ward,Awendo Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,1
+UlOy160zonh,Midida Dispensary,17342,West kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,32,30
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,77,77
+f3XukP1v8uT,Kitere,17341,South kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,45,45
+Cm5Cyjgr17X,Kolwal Dispensary,17344,South kanyamkago Ward,Uriri Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,29,27
+FRpJM9DDRyM,Rosewood Nursing Home,18068,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,23,23
+FRpJM9DDRyM,Rosewood Nursing Home,18068,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,27,
+FRpJM9DDRyM,Rosewood Nursing Home,18068,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,37,
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,28,28
+mQbyKWUNKMs,Oasis Doctors Plaza,20051,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,1,4
+mQbyKWUNKMs,Oasis Doctors Plaza,20051,Oruba Ward,Suna West Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,5,2
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q1,12,11
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2020Q2,6,6
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,47,43
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,qSgLzXh46n9,MOH 731  Known Positive at 1st  ANC       HV02-03,2019Q4,8,8
+mQbyKWUNKMs,Oasis Doctors Plaza,20051,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2019Q4,27,6
+mQbyKWUNKMs,Oasis Doctors Plaza,20051,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q1,23,19
+mQbyKWUNKMs,Oasis Doctors Plaza,20051,Oruba Ward,Suna West Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,34,32
+H8zbf1TS3qy,Got kachola,19928,Got kachola Ward,Nyatike Sub County,Migori County,ETX9cUWF43c,MOH 731  Initial test at ANC       HV02-04,2020Q2,36,35
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+FH1lPSOnK9z,Kwoyo Kodalo Dispensary,13729,North sakwa Ward,Awendo Sub County,Migori County,nwXS5vxrrr7,MOH 731 Positive Results_ANC HV02-11,2020Q1,2,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Sv7XZqXiyCP,Nyametaburo Health Centre,13909,Mokerero Ward,Kuria West Sub County,Migori County,qSgLzXh46n9,MOH 731 Known Positive at 1st ANC HV02-03,2020Q1,1,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+FRpJM9DDRyM,Rosewood Nursing Home,18068,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731 Initial test at ANC HV02-04,2020Q1,27,
+FRpJM9DDRyM,Rosewood Nursing Home,18068,Central kamagambo Ward,Rongo Sub County,Migori County,ETX9cUWF43c,MOH 731 Initial test at ANC HV02-04,2019Q4,37,
